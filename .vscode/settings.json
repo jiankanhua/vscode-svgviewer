@@ -7,3 +7,17 @@
         "out": true // set this to false to include "out" folder in search results
     }
 }
+
+{
+    // Show Transparency Grid
+    "svgviewer.transparencygrid": true,
+
+    // Open or not open the preview screen automatically
+    "svgviewer.enableautopreview": true,
+    
+    // Color setting for transparency
+    "svgviewer.transparencycolor": "#2BD163",
+
+    // Show zoom in/out button in preview windows
+    "svgviewer.showzoominout": true
+}
